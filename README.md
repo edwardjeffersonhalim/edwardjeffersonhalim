@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @edwardjeffersonhalim
+- 🏠 I am originally from Jakarta, Indonesia
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently studying in University Of California, Los Angeles 
 - 📫 You can always contact me through my email: edward7eff@gmail.com
